@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "OpenWeatherSample",
+        "description": "10 day weather forecast",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#OpenWeatherSample-Display",
+        "navigationComponentName": "com.demo",
+        "intentSemanticObject": "OpenWeatherSample",
+        "intentAction": "Display",
+        "html5ApplicationName": "openweather",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "ea39b1b7-04d6-449e-bd78-bf920d54fb82-1468083189279"
+        ],
+        "contentPackages": [
+            "4cce6704-17eb-4c85-87ba-796723923fba-1468083261679"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Weather Forecast",
+        "subtitle": "10 day forecast Meppel",
+        "searchKeywords": "Weather Forecast,10 day forecast Meppel",
+        "displayIconUrl": "sap-icon://weather-proofing",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
