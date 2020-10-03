@@ -1,0 +1,11 @@
+#
+#Sat Oct 03 14:02:19 UTC 2020
+Description=Open Weather API
+Type=HTTP
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=OpenWeather
+WebIDEEnabled=true
+URL=http\://api.openweathermap.org
+ProxyType=Internet
+WebIDESystem=API
